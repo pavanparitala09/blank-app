@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("🎈 Cloud Computing Lab Internal")
+st.title("🎈 Cloud Computing Lab External")
 st.write(
     " This is an Example web application to demonstarate in Cloud Computing Lab Internal.
     Testing
